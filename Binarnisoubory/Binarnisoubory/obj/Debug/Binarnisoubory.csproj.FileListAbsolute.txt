@@ -1,0 +1,11 @@
+D:\Koj\Programování\C#\Binarnisoubory\Binarnisoubory\bin\Debug\Binarnisoubory.exe.config
+D:\Koj\Programování\C#\Binarnisoubory\Binarnisoubory\bin\Debug\Binarnisoubory.exe
+D:\Koj\Programování\C#\Binarnisoubory\Binarnisoubory\bin\Debug\Binarnisoubory.pdb
+D:\Koj\Programování\C#\Binarnisoubory\Binarnisoubory\obj\Debug\Binarnisoubory.csproj.AssemblyReference.cache
+D:\Koj\Programování\C#\Binarnisoubory\Binarnisoubory\obj\Debug\Binarnisoubory.csproj.SuggestedBindingRedirects.cache
+D:\Koj\Programování\C#\Binarnisoubory\Binarnisoubory\obj\Debug\Binarnisoubory.Form1.resources
+D:\Koj\Programování\C#\Binarnisoubory\Binarnisoubory\obj\Debug\Binarnisoubory.Properties.Resources.resources
+D:\Koj\Programování\C#\Binarnisoubory\Binarnisoubory\obj\Debug\Binarnisoubory.csproj.GenerateResource.cache
+D:\Koj\Programování\C#\Binarnisoubory\Binarnisoubory\obj\Debug\Binarnisoubory.csproj.CoreCompileInputs.cache
+D:\Koj\Programování\C#\Binarnisoubory\Binarnisoubory\obj\Debug\Binarnisoubory.exe
+D:\Koj\Programování\C#\Binarnisoubory\Binarnisoubory\obj\Debug\Binarnisoubory.pdb
